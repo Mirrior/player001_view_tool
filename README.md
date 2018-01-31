@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Player001ViewTool::Renderer.copyright 'Rustin Player', 'All rights reserved'
+```
 
 ## Development
 
